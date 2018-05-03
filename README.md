@@ -40,4 +40,6 @@ I was part of a small group that made this for the semester project
 in Computer Science 319 at Iowa State University.
 
 The project is written in JS/HTML/CSS and PHP.
+
+Email -- Jamesetay1@gmail.com
 __________________________________________________________________________________
